@@ -1,0 +1,1 @@
+ini adalah repo modul pelatihan TA AI data science kelas ITS02
